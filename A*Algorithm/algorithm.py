@@ -1,7 +1,4 @@
 # Gabriel Quezada
-# CECS 451
-# Assignment 1
-# Due: 2/7/24
 
 import sys
 import heapq
