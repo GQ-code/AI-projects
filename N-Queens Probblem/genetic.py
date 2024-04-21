@@ -1,7 +1,4 @@
 # Gabriel Quezada
-# CECS 451
-# Assignment 2
-# Due: 2/16/24
 
 from board import Board 
 import random
